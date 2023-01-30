@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhananjay Aher</h1>
 <h3 align="center">I am coding enthusiast.</h3>
-img
+<img align="right" width=400 alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2U9UIqcoa53RKCOqFfmicJaQ_QUZLpuXht74H_4Fokv_9DghBEC8ugALl7rGcgcIIagI&usqp=CAU" >
 
 - 🔭 I’m currently working on **website**
 
